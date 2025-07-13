@@ -6,6 +6,7 @@ node_modules
 
 # environment varibale
 .env*
+!.env.example
 
 # misc
 .DS_Store
