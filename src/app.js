@@ -1,7 +1,7 @@
 import express from 'express'
 
-import dbConnection from './config/db.js'
 import {PORT} from './config/env.js'
+import dbConnection from './database/mongodb.js'
 
 const app = express()
 
