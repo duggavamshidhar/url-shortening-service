@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: url-shortening-service
+
+server:
+  port: 5500
